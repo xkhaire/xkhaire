@@ -6,7 +6,6 @@ Hi, I'm Khaire 👋
 
 I'm a passionate Computer Scientist, Software Developer, and Educator from Somalia 🇸🇴.
 
-# 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
